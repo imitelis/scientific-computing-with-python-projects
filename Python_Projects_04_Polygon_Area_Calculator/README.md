@@ -56,6 +56,7 @@ That code should return:
 50
 26
 Rectangle(width=10, height=3)
+
     **********
     **********
     **********
@@ -63,6 +64,7 @@ Rectangle(width=10, height=3)
 81
 5.656854249492381
 Square(side=4)
+
     ****
     ****
     ****
