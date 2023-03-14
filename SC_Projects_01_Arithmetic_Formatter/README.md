@@ -1,4 +1,4 @@
-# # freeCodeCamp - Scientific Computing with Python - Projects - I - Arithmetic Formatter - Instructions
+# freeCodeCamp - Scientific Computing with Python - Projects - I - Arithmetic Formatter - Instructions
 
 
 # 1. Projects - Arithmetic Formatter
