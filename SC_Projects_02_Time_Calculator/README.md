@@ -7,15 +7,15 @@ This is the boilerplate for the Time Calculator project. Instructions for buildi
 
 You will be working on this project with our Replit starter code.
 
-    Start by importing the project on Replit.
-    Next, you will see a .replit window.
-    Select Use run command and click the Done button.
+  *  Start by importing the project on Replit.
+  *  Next, you will see a .replit window.
+  *  Select Use run command and click the Done button.
 
 Write a function named add_time that takes in two required parameters and one optional parameter:
 
-    a start time in the 12-hour clock format (ending in AM or PM)
-    a duration time that indicates the number of hours and minutes
-    (optional) a starting day of the week, case insensitive
+  *  a start time in the 12-hour clock format (ending in AM or PM)
+  *  a duration time that indicates the number of hours and minutes
+  *  (optional) a starting day of the week, case insensitive
 
 The function should add the duration time to the start time and return the result.
 
