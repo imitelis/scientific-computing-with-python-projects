@@ -1,7 +1,7 @@
 # freeCodeCamp - Scientific Computing with Python - Projects - I - Arithmetic Formatter - Instructions
 
 
-# 1. Projects - Arithmetic Formatter
+## 1. Projects - Arithmetic Formatter
 
 This is the boilerplate for the Arithmetic Formatter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
 
@@ -19,7 +19,7 @@ Students in primary school often arrange arithmetic problems vertically to make 
 
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
 
-# Example
+### Example
 
 Function Call:
 
@@ -42,7 +42,7 @@ Output:
 ----    ------    ------    -----
   40     -3800     19998      474
 
-# Rules
+### Rules
 
 The function will return the correct conversion if the supplied problems are properly formatted, otherwise, it will return a string that describes an error that is meaningful to the user.
 
@@ -57,14 +57,14 @@ The function will return the correct conversion if the supplied problems are pro
       *  There should be four spaces between each problem.
       *  There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
 
-# Development
+### Development
 
 Write your code in arithmetic_arranger.py. For development, you can use main.py to test your arithmetic_arranger() function. Click the "run" button and main.py will run.
 
-# Testing
+### Testing
 
 The unit tests for this project are in test_module.py. We are running the tests from test_module.py in main.py for your convenience. The tests will run automatically whenever you hit the "run" button. Alternatively you may run the tests by inputting pytest in the console.
 
-# Submitting
+### Submitting
 
 Copy your project's URL and submit it below.
