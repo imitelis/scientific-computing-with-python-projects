@@ -1,7 +1,7 @@
 # freeCodeCamp - Scientific Computing with Python - Projects - II - Time Calculator - Instructions
 
 
-# 2. Projects - Time Calculator
+## 2. Projects - Time Calculator
 
 This is the boilerplate for the Time Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
 
@@ -45,14 +45,14 @@ Returns: 7:42 AM (9 days later)
 
 Do not import any Python libraries. Assume that the start times are valid times. The minutes in the duration time will be a whole number less than 60, but the hour can be any whole number.
 
-# Development
+### Development
 
 Write your code in time_calculator.py. For development, you can use main.py to test your time_calculator() function. Click the "run" button and main.py will run.
 
-# Testing
+### Testing
 
 The unit tests for this project are in test_module.py. We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
 
-# Submitting
+### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
