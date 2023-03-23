@@ -1,7 +1,7 @@
 # freeCodeCamp - Scientific Computing with Python - Projects - IV - Polygon Area Calculator - Instructions
 
 
-# 4. Projects - Polygon Area Calculator
+## 4. Projects - Polygon Area Calculator
 
 This is the boilerplate for the Polygon Area Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator
 
@@ -13,7 +13,7 @@ You will be working on this project with our Replit starter code.
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
 
-# Rectangle class
+### Rectangle class
 
 When a Rectangle object is created, it should be initialized with width and height attributes. The class should also contain the following methods:
 
@@ -27,7 +27,7 @@ When a Rectangle object is created, it should be initialized with width and heig
 
 Additionally, if an instance of a Rectangle is represented as a string, it should look like: Rectangle(width=5, height=10)
 
-# Square class
+### Square class
 
 The Square class should be a subclass of Rectangle. When a Square object is created, a single side length is passed in. The __init__ method should store the side length in both the width and height attributes from the Rectangle class.
 
@@ -77,14 +77,14 @@ Square(side=4)
 
 The unit tests for this project are in test_module.py.
 
-# Development
+### Development
 
 Write your code in shape_calculator.py. For development, you can use main.py to test your shape_calculator() function. Click the "run" button and main.py will run.
 
-# Testing
+### Testing
 
 We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
 
-# Submitting
+### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
